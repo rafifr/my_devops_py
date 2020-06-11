@@ -8,8 +8,12 @@ Created on Wed Jun 10 18:25:53 2020
 
 
 def main():
+    """
+    Hello wold
+    """
 
     print("hello world")
+
 
 if __name__ == "__main__":
     main()
