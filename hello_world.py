@@ -9,7 +9,7 @@ Created on Wed Jun 10 18:25:53 2020
 
 def main():
     """
-    Hello wold
+    Hello world
     """
 
     print("hello world")
